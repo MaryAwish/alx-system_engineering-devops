@@ -1,15 +1,27 @@
 SHELL BASICS TASKS
+
 Exercise 0: pwd === print working directory
+
 Exercise 1: ls === list directory contents
+
 Exercise 2: cd === change directory
+
 Exercise 3: ls -l === list directory contents in long form
+
 Exercise 4: ls -la === list directory contents in long form, including hidden files
+
 Exercise 5: ls -la Note: Are files inherently ordered
+
 Exercise 6: mkdir /tmp/my_first_directory Create a my_first_directoty directory inside the tmp directory
+
 Exercise 7: mv /tmp/betty /tmp/my_first_directory/betty Move file betty, which is located inside the tmp directory, to the my_fist_directory directory, which is also located inside the tmp directory. This exercise required some dir traversing.
+
 Exercise 8: remove file betty
+
 Exercise 9: remove directory my_first_directory from tmp
+
 Exercise 10:cd - change directory to previous directory
+
 Exercise 11: ls -la . .. /boot List all files/directories, including hidden files/directories, from 3 separate directories: current directory, parent of working directory, and /boot directory. The ls command allows multiple directories to be listed separated by spaces.
 Exercise 12: file /tmp/iamafile Prints the type of file iamafile.
 
