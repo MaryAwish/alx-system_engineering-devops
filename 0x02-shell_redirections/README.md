@@ -5,3 +5,4 @@ Exercise 2: Display 1 file content
 Exercise 3: Display 2 file content
 Exercise 4: Display the last 10 lines of a file
 Exercise 5: 10 first words in a file
+Exercise 6: to dispay the 3rd line of a file
