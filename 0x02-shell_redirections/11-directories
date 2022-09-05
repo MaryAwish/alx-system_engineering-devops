@@ -1,2 +1,2 @@
-#1/bin/bash
-ls -lRa | grep ^d| wc -l
+#!/bin/bash
+ls -lRa
