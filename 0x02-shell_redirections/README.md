@@ -4,3 +4,4 @@ Displaying a smiley
 Exercise 2: Display 1 file content
 Exercise 3: Display 2 file content
 Exercise 4: Display the last 10 lines of a file
+Exercise 5: 10 first words in a file
