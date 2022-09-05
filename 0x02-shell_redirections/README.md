@@ -9,3 +9,4 @@ Exercise 6: to dispay the 3rd line of a file
 Exercise 7: 3rd line in a file
 Exersise 8: A script that writes into the file the results from a comand
 Exercise 10: A script that removes all regular files not directories
+a script that counts the number of directories
