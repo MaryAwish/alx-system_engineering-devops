@@ -1,3 +1,6 @@
 SHELL, I/O REDIRECTIONS
 Task 0: Printing hello world
 Displaying a smiley
+Exercise 2: Display 1 file content
+Exercise 3: Display 2 file content
+Exercise 4: Display the last 10 lines of a file
