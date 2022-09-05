@@ -10,3 +10,4 @@ Exercise 7: 3rd line in a file
 Exersise 8: A script that writes into the file the results from a comand
 Exercise 10: A script that removes all regular files not directories
 a script that counts the number of directories
+Exercise 12: Script that displays the 10 newest files in the directory
