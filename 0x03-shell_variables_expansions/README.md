@@ -15,3 +15,4 @@ Task 12: Combinations
 Task 13:A script that prints numbers in 2 decimal points
 Task 14: Convert from decimal to hex
 Task 15: rot13 encription
+Task 17: script that adds the two numbers stored in the environment variables
