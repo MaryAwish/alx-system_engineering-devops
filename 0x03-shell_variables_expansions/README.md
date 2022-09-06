@@ -13,3 +13,4 @@ Task 10: Power global variables
 Task 11: More Arithmentic
 Task 12: Combinations
 Task 13:A script that prints numbers in 2 decimal points
+Task 14: Convert from decimal to hex
