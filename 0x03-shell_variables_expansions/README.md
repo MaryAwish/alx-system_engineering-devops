@@ -11,3 +11,4 @@ Task 8: adding
 Task 9: Operations on environment variables
 Task 10: Power global variables
 Task 11: More Arithmentic
+Task 12: Combinations
