@@ -9,3 +9,4 @@ Task 6: Creating a new variable
 Task 7: Create a new global variable
 Task 8: adding
 Task 9: Operations on environment variables
+Task 10: Power global variables
