@@ -1,1 +1,2 @@
-My first script
+loops, conditions and parsing
+
