@@ -3,7 +3,7 @@
 # eternity unless it is killed, not so ethernal after all :)
 
 # Handle SIGTERM
-trap "echo 'I am invincible!!!'" 1 3 9
+trap "echo 'I am invincible!!!'" 15
 
 
 # print the message forever
